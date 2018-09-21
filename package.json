@@ -1,5 +1,5 @@
 {
-  "name": "jstools",
+  "name": "d-jstools",
   "version": "1.0.0",
   "description": "This file is about some JavaScript tools",
   "main": "index.js",
@@ -22,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/starsion/JSTools/issues"
   },
-  "homepage": "https://github.com/starsion/JSTools#readme"
+  "homepage": "http://starsion.cn/"
 }
