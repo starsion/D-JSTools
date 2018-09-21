@@ -1,0 +1,26 @@
+{
+  "name": "jstools",
+  "version": "1.0.0",
+  "description": "This file is about some JavaScript tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starsion/JSTools.git"
+  },
+  "keywords": [
+    "JS",
+    "JavaSctipt",
+    "Tool",
+    "Jstool",
+    "JavaScriptTool"
+  ],
+  "author": "starsion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starsion/JSTools/issues"
+  },
+  "homepage": "https://github.com/starsion/JSTools#readme"
+}
