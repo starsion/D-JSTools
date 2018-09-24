@@ -1,4 +1,4 @@
-import DLog from './tool/DxLog'
+import DLog from './tool/DLog'
 
 export {
     DLog
