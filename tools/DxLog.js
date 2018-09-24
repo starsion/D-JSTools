@@ -5,7 +5,7 @@
  * @param {String} tag 标签
  * @param {String} type 类型 默认为log类型（log,info,error,warn）
  */
-const DxLog = (content = "", tag = "", type = "log") => {
+const DLog = (content = "", tag = "", type = "log") => {
     let date = new Date()
     switch (type) {
         case "log":
@@ -26,5 +26,5 @@ const DxLog = (content = "", tag = "", type = "log") => {
 }
 
 
-export default DxLog
+export default DLog
 

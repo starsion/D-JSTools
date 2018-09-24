@@ -1,5 +1,5 @@
-import DxLog from './tool/DxLog'
+import DLog from './tool/DxLog'
 
 export {
-    DxLog
+    DLog
 } 
