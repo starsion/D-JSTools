@@ -5,11 +5,47 @@ Every day is a good day
 :smile:
 :smile:
 
+----
+
 ## What's this ?
 
-Some useful tools for JavaScipt.
+Some useful tools for JavaScript.
 
-> List of tools available:
+> List of tools available at now:
+
+<table>
+    </tr>
+        <td >Tool</td>
+        <td>Intro</td>
+    </tr>
+    <tr>
+        <td>DLog(content,tag,type)</td>
+        <td>The logger with time and tag</td>
+    </tr>
+</table>
+
+----
+
+## How to use it ?
+
+> for example:
+
+``` js
+import {Dlog} from 'd-jstools'
+
+let tag = "Test-----"
+let content = "hello world"
+
+console.log(content,tag)
+```
+
+![](./img/img1.png 'DLog例子')
+
+----
+
+## Api
+ 
+> The param for tools, see below:
 
 <table>
     </tr>
@@ -35,18 +71,3 @@ Some useful tools for JavaScipt.
         <td>the log type,see the value</td>
     </tr>    
 </table>
-
-## How to use it ?
-
-> for example:
-
-``` js
-import {Dlog} from 'd-jstools'
-
-let tag = "Test-----"
-let content = "hello world"
-
-console.log(content,tag)
-```
-
-![](./img/img1.png 'DLog例子')
