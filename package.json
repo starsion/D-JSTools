@@ -1,6 +1,6 @@
 {
   "name": "d-jstools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This file is about some JavaScript tools",
   "main": "index.js",
   "scripts": {
